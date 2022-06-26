@@ -1,5 +1,5 @@
 === Generic ===
-？？？てすと
+？？？てすとーーーーー
 Contributors: bhadaway
 Donate link: https://calmestghost.com/donate
 Theme link: https://generic.tools/

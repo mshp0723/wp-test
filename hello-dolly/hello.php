@@ -74,10 +74,10 @@ function dolly_css() {
 	<style type='text/css'>
 	#dolly {
 		float: right;
-		padding: 5px 10px;
+		padding: 8px 16px;
 		margin: 0;
-		font-size: 12px;
-		line-height: 1.6666;
+		font-size: 12px;font-size:1em;
+		line-height: 24px;
 	}
 	.rtl #dolly {
 		float: left;
